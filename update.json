@@ -1,0 +1,7 @@
+{
+    "versionCode":  5,
+    "versionName":  "1.3",
+    "apkUrl":  "https://github.com/magicmrgiles/oberon-releases/releases/download/v1.3/oberon-1.3.apk",
+    "sha256":  "9438f18ab458b5dd2d9722db6f2b9aa577bd295ecab314b8bde674c86598022b",
+    "notes":  "Self-update, car mode, and a clearer message when a conversation can no longer be replied to."
+}
